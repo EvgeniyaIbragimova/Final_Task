@@ -36,6 +36,5 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-PrintArray(array1);
 ArrayThreeElements(array1, array2);
 PrintArray(array2);
